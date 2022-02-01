@@ -2,7 +2,7 @@
   "dependencies": {
     "axios": "^0.25.0"
   },
-  "name": "pterowrapper",
+  "name": "simplepterodactyl",
   "description": "Super simple pterodactyl API wrapper",
   "version": "0.0.1",
   "main": "index.js",
