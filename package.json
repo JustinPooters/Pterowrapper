@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0"
+  },
+  "name": "pterowrapper",
+  "description": "Super simple pterodactyl API wrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinPooters/Pterowrapper.git"
+  },
+  "keywords": [],
+  "author": "Justin Pooters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustinPooters/Pterowrapper/issues"
+  },
+  "homepage": "https://github.com/JustinPooters/Pterowrapper#readme"
+}
